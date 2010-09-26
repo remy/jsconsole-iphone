@@ -1,7 +1,6 @@
 # JS Console
 
-<a class="FlattrButton" style="display:none;" rev="flattr;button:compact;"
-href="http://github.com/remy/jsconsole-iphone"></a>
+[![Flattr this](http://api.flattr.com/button/button-compact-static-100x17.png)](https://flattr.com/thing/66434/JS-Console-for-iOS)
 
 A JavaScript web console, useful for quick experimentation, debugging, presentations (for live coding) and workshops.
 
