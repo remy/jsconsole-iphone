@@ -1,5 +1,8 @@
 # JS Console
 
+<a class="FlattrButton" style="display:none;" rev="flattr;button:compact;"
+href="http://github.com/remy/jsconsole-iphone"></a>
+
 A JavaScript web console, useful for quick experimentation, debugging, presentations (for live coding) and workshops.
 
 This is the native version of [http://jsconsole.com](JS Console) - please do donate via the pledgie above - I doubt if this will ever make the iTunes store (I got bored of waiting).
