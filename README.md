@@ -4,7 +4,7 @@
 
 A JavaScript web console, useful for quick experimentation, debugging, presentations (for live coding) and workshops.
 
-This is the native version of [http://jsconsole.com](JS Console) - please do donate via the pledgie above if you find yourself building and using this app.
+This is the native version of [http://jsconsole.com](http://jsconsole.com) - please do donate via the pledgie above if you find yourself building and using this app.
 
 **If you don't have a developer account, you can now get [JS Console through the iTunes store](http://jsconsole.com/app) ($99 for a developer account vs. 99&cent; for the compiled app!)**
 
